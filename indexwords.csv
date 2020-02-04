@@ -1,0 +1,93 @@
+﻿index,title,indexwords
+1,A Federated Learning Approach for Mobile Packet Classification-annotated,"mobile device, wireless communication"
+2,A Fog Robotics Approach to Deep Robot Learning Application to Object Recognition and Grasp Planning in Surface Decluttering-annotated,"deep learning framework, intelligent hardware, edge computing, fog computing"
+3,A generic framework forprivacy preserving deep learning-annotated,"deep learning framework, privacy preserving"
+4,A Hybrid Approach to Privacy-Preserving Federated Learning-annotated,"differential privacy, secure multiparty computation, machine learning framework"
+5,A Stochastic Gradient Method with an Exponential Convergence Rate for Finite Training Sets,gradient updating algorithm
+6,A Survey of Mobile Computing for the Visually Impaired-annotated,"mobile device, healthcare"
+7,Accelerating Federated Learning via Momentum Gradient Descent-annotated,gradient updating algorithm
+8,Active Learning Solution on Distributed Edge Computing-annotated,"fog computing, edge computing"
+9,ADAM- A METHOD FOR STOCHASTIC OPTIMIZATION ICLR 2015,gradient updating algorithm
+10,Adaptive Federated Learning in Resource Constrained Edge Computing Systems-annotated,"gradient updating algorithm, edge computing, wireless communication, mobile device"
+11,Adaptive Task Allocation for Asynchronous Federated Mobile Edge Learning-annotated,"systems heterogeneity, edge computing, gradient updating algorithm"
+12,Boosting Privately Privacy-Preserving Federated Extreme Boosting for Mobile Crowdsensing-annotated,"privacy preserving, machine learning framework"
+13,Broadband Analog Aggregation for Low-Latency Federated Edge Learning (Extended Version)-annotated,"edge computing, mobile device, communication efficiency"
+14,c-SELENE Privacy-preserving Query Retrieval System on Heterogeneous Cloud Data-annotated,"privacy preserving, systems heterogeneity"
+15,Chongqing University of Posts and Telecommunications Master Thesis Declaration of Originality-annotated,"Internet of Things, communication efficiency, privacy preserving"
+16,Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge-annotated,"edge computing, privacy preserving, communication efficiency, mobile device"
+17,Coded Federated Computing in Wireless Networks with Straggling Devices and Imperfect CSI-annotated,communication efficiency
+18,Communication-Efficient Federated Deep Learning with Asynchronous Model Update and Temporally Weighted Aggregation-annotated,"deep learning framework, systems heterogeneity"
+19,Communication-efficient learning of deep networks from decentralized data-annotated,"mobile device, communication efficiency, data heterogeneity, deep learning framework"
+20,Dancing in the Dark Private Multi-Party Machine Learning in an Untrusted Setting(2)-annotated,"privacy preserving, secure multiparty computation"
+21,Decentralized Bayesian Learning over Graphs(2)-annotated,"mobile device, intelligent hardware"
+22,Decentralized Federated Learning A Segmented Gossip Approach-annotated,communication efficiency
+23,Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training ,"mobile device, communication efficiency, gradient updating algorithm"
+24,Deep Models Under the GAN Information Leakage from Collaborative Deep Learning-annotated,"security attack, privacy preserving, differential privacy"
+25,Differentially Private Data Generative Models-annotated,"differential privacy, robustness, security attack"
+26,Differentially Private Federated Learning A Client Level Perspective-annotated,"differential privacy, privacy preserving, security attack"
+27,Differentially Private Learning with Adaptive Clipping-annotated,differential privacy
+28,DIoT A Federated Self-learning Anomaly Detection System for IoT(2)-annotated,"Internet of Things, deep learning framework, anomaly detection"
+29,Distributed Statistical Machine Learning in Adversarial Settings- Byzantine Gradient Descent,"robustness, gradient updating algorithm"
+30,Efficient Training Management for Mobile Crowd-Machine Learning A Deep Reinforcement Learning Approach-annotated,"mobile device, deep learning framework, reinforcement learning framework"
+31,Encrypted Speech Recognition Using Deep Polynomial Networks(2)-annotated,"mobile device, systems heterogeneity, deep learning framework, intelligent hardware"
+32,Energy-Efficient Radio Resource Allocation for Federated Edge Learning-annotated,"edge computing, communication efficiency"
+33,Fast Uplink Grant for NOMA a Federated Learning based Approach-annotated,wireless communication
+34,Federated Control with Hierarchical Multi-Agent Deep Reinforcement Learning-annotated,communication efficiency
+35,Federated Imitation Learning A Privacy Considered Imitation Learning Framework for Cloud Robotic Systems with Heterogeneous Sensor Data-annotated,"intelligent hardware, intelligent hardware, transfer learning framework"
+36,Federated Learning Based on Over-the-Air Computation-annotated,communication efficiency
+37,Federated Learning for Keyword Spotting-annotated,"communication efficiency, intelligent hardware"
+38,Federated Learning for Mobile Keyboard Prediction-annotated,"mobile device, intelligent hardware"
+39,"Federated Learning for Wireless Communications Motivation, Opportunities and Challenges-annotated",wireless communication
+40,Federated Learning in Distributed Medical Databases Meta-Analysis of Large-Scale Subcortical Brain Data-annotated,healthcare
+41,Federated machine learning Concept and applications-annotated,concept
+42,Federated Optimization Distributed Machine Learning for On-Device Intelligence-annotated,"mobile device, communication efficiency"
+43,Federated Optimization Distributed Optimization Beyond the Datacenter-annotated,"incentive mechanism, communication efficiency"
+44,Federated Optimization in Heterogeneous Networks-annotated,"systems heterogeneity, data heterogeneity"
+45,Federated Reinforcement Distillation with Proxy Experience Memory-annotated,reinforcement learning framework
+46,Federated Reinforcement Learning-annotated,reinforcement learning framework
+47,FedHealth A Federated Transfer Learning Framework for Wearable Healthcare-annotated,healthcare
+48,Functional Federated Learning in Erlang (ffl-erl)-annotated,machine learning framework
+49,Hierarchical Federated Learning Across Heterogeneous Cellular Networks-annotated,"communication efficiency, machine learning framework, wireless communication"
+50,How To Backdoor Federated Learning-annotated,"anomaly detection, security attack"
+51,"In-Edge AI Intelligentizing Mobile Edge Computing, Caching and Communication by Federated Learning-annotated","mobile device, edge computing, wireless communication"
+52,Incentive Design for Efficient Federated Learning in Mobile Networks A Contract Theory Approach-annotated,"incentive mechanism, mobile device"
+53,Joint Service Pricing and Cooperative Relay Communication for Federated Learning-annotated,"mobile device, communication efficiency"
+54,KloakDB A Platform for Analyzing Sensitive Data with $K$-anonymous Query Processing-annotated,privacy preserving
+55,LEAF A Benchmark for Federated Settings-annotated,machine learning framework
+56,Learning Differentially Private Recurrent Language Models-annotated,"differential privacy, privacy preserving"
+57,Learning Private Neural Language Modeling with Attentive Aggregation-annotated,intelligent hardware
+58,Learning Rate Adaptation for Federated and Differentially Private Learning-annotated,gradient updating algorithm
+59,Lifelong Federated Reinforcement Learning A Learning Architecture for Navigation in Cloud Robotic Systems-annotated,"reinforcement learning framework, transfer learning framework, intelligent hardware"
+60,LoAdaBoost-Loss-Based AdaBoost Federated Machine Learning on medical data,healthcare
+61,MD-GAN Multi-Discriminator Generative Adversarial Networks for Distributed Datasets-annotated,machine learning framework
+62,Measuring the Effects of Non-Identical Data Distribution for Federated Visual Classification-annotated,"mobile device, data heterogeneity"
+63,Mitigating Sybils in Federated Learning Poisoning-annotated,"security attack, privacy preserving"
+64,Motivating Workers in Federated Learning A Stackelberg Game Perspective-annotated,incentive mechanism
+65,Multi-hop Federated Private Data Augmentation with Sample Compression-annotated,"data heterogeneity, communication efficiency, privacy preserving"
+66,Multi-institutional deep learning modeling without sharing patient data A feasibility study on brain tumor segmentation-annotated,healthcare
+67,Multi-Objective Evolutionary Federated Learning-annotated,communication efficiency
+68,Partitioned Variational Inference A unified framework encompassing federated and continual learning-annotated,communication efficiency
+69,Patient Clustering Improves Efficiency of Federated Machine Learning to Predict Mortality and Hospital Stay Time Using Distributed Elect-annotated,"healthcare, data heterogeneity"
+70,Peer-to-peer Federated Learning on Graphs-annotated,"concept, machine learning framework, deep learning framework"
+71,Privacy Preserving QoE Modeling using Collaborative Learning-annotated,concept
+72,Privacy-Preserving Classification with Secret Vector Machines-annotated,machine learning framework
+73,Privacy-Preserving Hierarchical Clustering Formal Security and Efficient Approximation-annotated,privacy preserving
+74,Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption,machine learning framework
+75,Protection Against Reconstruction and Its Applications in Private Federated Learning-annotated,"differential privacy, privacy preserving"
+76,Randomized Distributed Mean Estimation Accuracy vs Communication-annotated,communication efficiency
+77,Robust and Communication-Efficient Federated Learning from Non-IID Data-annotated,"deep learning framework, data heterogeneity, communication efficiency"
+78,Robust Federated Training via Collaborative Machine Teaching using Trusted Instances-annotated,"robustness, privacy preserving"
+79,Scalable and Differentially Private Distributed Aggregation in the Shuffled Model-annotated,"robustness, privacy preserving"
+80,Secure Federated Transfer Learning-annotated,transfer learning framework
+81,SecureBoost A Lossless Federated Learning Framework-annotated,machine learning framework
+82,Self-supervised audio representation learning for mobile devices-annotated,mobile device
+83,Semi-Cyclic Stochastic Gradient Descent-annotated,gradient updating algorithm
+84,Split learning for health Distributed deep learning without sharing raw patient data-annotated,healthcare
+85,"Stochastic, Distributed and Federated Optimization for Machine Learning-annotated","communication efficiency, gradient updating algorithm"
+86,"The Need for Speed of AI Applications Performance Comparison of Native vs, Browser-based Algorithm Implementations-annotated",machine learning framework
+87,The Tradeoff Between Privacy and Accuracy in Anomaly Detection Using Federated XGBoost-annotated,machine learning framework
+88,Towards Effective Device-Aware Federated Learning-annotated,"incentive mechanism, data heterogeneity"
+89,Towards Federated Learning at Scale System Design-annotated,concept
+90,Two-stage Federated Phenotyping and Patient Representation Learning-annotated,"data heterogeneity, healthcare"
+91,Variational Federated Multi-Task Learning-annotated,data heterogeneity
+92,Wireless Federated Distillation for Distributed Edge Learning with Heterogeneous Data-annotated,wireless communication

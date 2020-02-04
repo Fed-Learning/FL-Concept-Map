@@ -1,0 +1,51 @@
+text {
+	pointer-events: none;
+}
+
+.inner_node rect {
+	pointer-events: all;
+}
+
+.inner_node rect.highlight {
+	fill: #D74B4B;
+	/*fill: #942514;*/
+	stroke-width: 3px;
+}
+
+.outer_node circle {
+	pointer-events: all;
+}
+
+.outer_node circle.highlight {
+	stroke: #bac2c6;
+	stroke-width: 3px;
+}
+
+.ellipsis {
+	text-overflow: ellipsis;
+}
+
+#title {
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+#content {
+	position: relative;
+}
+
+#label {
+	position: absolute;
+	right: 50px;
+	top: 70px;
+}
+
+#map {
+	position: absolute;
+	text-align: center;
+}
